@@ -6,9 +6,11 @@
 /*   By: chcorrwa <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2019/10/14 12:03:51 by chcorrwa          #+#    #+#             */
-/*   Updated: 2019/10/17 05:22:51 by chcorrwa         ###   ########.fr       */
+/*   Updated: 2019/11/12 15:21:53 by chcorrwa         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
+
+#include <stdlib.h>
 #include <unistd.h>
 #include <string.h>
 
